@@ -11,7 +11,7 @@
 
 - 📍 I am from Moradabad, Uttar Pradesh.
 - 👨🏻‍🎓 Though I hold Bachelor's degree in Mechanical, **my heart and soul stays in coding**.
-- 🔭 I’m currently persuing **Full stack web developer course at Masai School**.
+- 🔭 I’m currently working as **Software Engineer at Paytm**.
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for **full stack web developer role**.
 
